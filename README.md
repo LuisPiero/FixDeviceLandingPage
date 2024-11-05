@@ -3,12 +3,19 @@ FixDevice es una plataforma innovadora desarrollada por GearNet, una startup fun
 La aplicación utiliza tecnología de geolocalización para emparejar a los usuarios con técnicos cercanos, optimizando el proceso de solicitud de servicios. Ya sea que el usuario prefiera que un técnico lo visite en su domicilio o prefiere llevar su dispositivo a un taller, FixDevice ofrece una solución flexible y eficiente.
 # Autores:
 Cárdenas Concha, Santiago Iván
+
 Carrion Ruiz, Angelly Fiorella
+
 Gómez Flores, Daniela Araceli
+
 Goñe Araccata, Esther Abigail
+
 Mejia Cardenas, Allison Guadalupe
+
 Rodríguez Rodríguez, Luis Piero
+
 Suarez Romero, Santiago Manuel
+
 Torrejón Gonzales, Nicolás Fredy
 # Segmentos Objetivo:
 Segmento objetivo #1: Pequeñas y medianas empresas que dependen de la tecnología para operar
